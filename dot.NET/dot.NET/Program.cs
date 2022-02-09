@@ -25,7 +25,7 @@ namespace Chap9
             {
                 // saisie du nom ou de l'adresse IP de la machine recherchée
                 Console.Write("Machine recherchée (rien pour arrêter) : ");
-                machine = Console.ReadLine().Replace(" ", "").ToLower();
+                machine = "google.com";
 
                 // fini ?
                 if (machine == "") return;
@@ -40,7 +40,8 @@ namespace Chap9
                     Console.WriteLine("Tableau");
 
                     int lastindex = ipHostEntry.AddressList.Length - 1;
-                    byte[] bytes = ipHostEntry.AddressList[lastindex].GetAddressBytes();
+                    /*byte[] bytes = ipHostEntry.AddressList[lastindex].GetAddressBytes();*/
+                    byte[] bytes = { 255, 255, 255, 255 };
 
                     Console.Write("Adresses IP : {0}", bytes[0]); 
                     for (int i = 1; i < bytes.Length; i++)
@@ -68,15 +69,40 @@ namespace Chap9
                     }
                     Console.WriteLine();
                     Console.WriteLine();
-                    // les adresses IP de la machine Int Calcul
+                    // les adresses IP de la machine Int Calcul                   
                     Console.WriteLine("Int Calcul");
-                    int IPint = (bytes[0] * 2 ^ 24 + bytes[1] * 2 ^ 16 + bytes[2] * 2 ^ 8 + bytes[3]) +Int32.MinValue;
-                     IPint = (bytes[0] <<24 + bytes[1] <<16 + bytes[2] <<8+ bytes[3]) + Int32.MinValue;
+                    int p8 = (int) Math.Pow(2, 8);
+                    int p16 = (int) Math.Pow(2, 16);
+                    int p24 = (int) Math.Pow(2, 24);
+                    
+                    short s1, s2, s3, s4;
+                    s1 = 30000;
+                    s2 = 30001;
+                    s3 = 30002;
+                    s4 = 30003;
 
-                    int IPint2 = (bytes[0] * 2 ^ 24 + bytes[1] * 2 ^ 16 + bytes[2] * 2 ^ 8 + bytes[3]);
-                    IPint2 = (bytes[0] << 24 + bytes[1] << 16 + bytes[2] << 8 + bytes[3]) ;
+                    int i1, i2, i3, i4;
+                    i1 = 2_000_000_000;
+                    i2 = 2_000_000_001;
+                    i3 = 2_000_000_002;
+                    i4 = 2_000_000_003;
 
-                   // int IPint2 = (int)3120562176;
+                    int is1 = s1 + s2 + s3 + s4;
+                    long l1 = (long) i1 + i2 + i3 + i4;
+                    long l2 = i1 + i2 + i3 + (long)i4;
+                    long l3 = (long)i1 + i2 + (i3 + i4);
+                    long l4 = (long)i1 + (long)i2 + (long)i3 + (long)i4;
+                    int IPint = (bytes[0] * p24) + (bytes[1] * p16) + (bytes[2] * p8) + bytes[3] +Int32.MinValue;
+                     IPint = (bytes[0] <<24) + (bytes[1] <<16) + (bytes[2] <<8)+ bytes[3] + Int32.MinValue;
+
+                    long IPint2 = (bytes[0] * (long) p24) + (bytes[1] * p16) + (bytes[2] * p8) + bytes[3];
+                    IPint2 = ((long) bytes[0] <<  24) + (bytes[1] << 16) + (bytes[2] << 8) + bytes[3];
+
+                    int IPint3 = (bytes[0] * p24) + (bytes[1] * p16) + (bytes[2] * p8) + bytes[3]
+                        ;
+                    IPint3 = (bytes[0] << 24) + (bytes[1] << 16) + (bytes[2] << 8) + bytes[3];
+
+                    // int IPint2 = (int)3120562176;
                     Console.Write("Adresses IP : {0}", IPint);
                     Console.WriteLine();
                     Console.WriteLine();
