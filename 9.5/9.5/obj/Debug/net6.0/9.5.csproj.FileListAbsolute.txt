@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\bin\Debug\net6.0\9.5.exe
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\bin\Debug\net6.0\9.5.deps.json
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\bin\Debug\net6.0\9.5.runtimeconfig.json
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\bin\Debug\net6.0\9.5.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\bin\Debug\net6.0\ref\9.5.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\bin\Debug\net6.0\9.5.pdb
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\9.5.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\9.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\9.5.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\9.5.AssemblyInfo.cs
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\9.5.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\9.5.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\ref\9.5.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\9.5.pdb
+C:\Users\User\Documents\Serial_labs\dot.NET\9.5\9.5\obj\Debug\net6.0\9.5.genruntimeconfig.cache

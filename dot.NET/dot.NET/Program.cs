@@ -25,7 +25,8 @@ namespace Chap9
             {
                 // saisie du nom ou de l'adresse IP de la machine recherchée
                 Console.Write("Machine recherchée (rien pour arrêter) : ");
-                machine = "google.com";
+                machine = Console.ReadLine().Trim().ToLower();
+                /*machine = "google.com";*/
 
                 // fini ?
                 if (machine == "") return;
