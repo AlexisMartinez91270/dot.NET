@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\bin\Debug\net6.0\ClientEcho.exe
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\bin\Debug\net6.0\ClientEcho.deps.json
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\bin\Debug\net6.0\ClientEcho.runtimeconfig.json
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\bin\Debug\net6.0\ClientEcho.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\bin\Debug\net6.0\ref\ClientEcho.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\bin\Debug\net6.0\ClientEcho.pdb
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ClientEcho.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ClientEcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ClientEcho.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ClientEcho.AssemblyInfo.cs
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ClientEcho.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ClientEcho.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ref\ClientEcho.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ClientEcho.pdb
+C:\Users\User\Documents\Serial_labs\dot.NET\ClientEcho\ClientEcho\obj\Debug\net6.0\ClientEcho.genruntimeconfig.cache
