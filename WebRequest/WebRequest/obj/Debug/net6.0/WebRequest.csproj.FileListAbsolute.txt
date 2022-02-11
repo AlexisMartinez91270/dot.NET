@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\bin\Debug\net6.0\WebRequest.exe
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\bin\Debug\net6.0\WebRequest.deps.json
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\bin\Debug\net6.0\WebRequest.runtimeconfig.json
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\bin\Debug\net6.0\WebRequest.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\bin\Debug\net6.0\ref\WebRequest.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\bin\Debug\net6.0\WebRequest.pdb
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\WebRequest.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\WebRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\WebRequest.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\WebRequest.AssemblyInfo.cs
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\WebRequest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\WebRequest.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\ref\WebRequest.dll
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\WebRequest.pdb
+C:\Users\User\Documents\Serial_labs\dot.NET\WebRequest\WebRequest\obj\Debug\net6.0\WebRequest.genruntimeconfig.cache

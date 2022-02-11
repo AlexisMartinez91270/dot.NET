@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRequest", "WebRequest\WebRequest.csproj", "{34F864CA-E614-4387-8F2E-475A0A4E81F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F864CA-E614-4387-8F2E-475A0A4E81F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F864CA-E614-4387-8F2E-475A0A4E81F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F864CA-E614-4387-8F2E-475A0A4E81F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F864CA-E614-4387-8F2E-475A0A4E81F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {760A4F13-0224-4E5B-9DE3-085A8711BBF7}
+	EndGlobalSection
+EndGlobal
